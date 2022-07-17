@@ -61,7 +61,26 @@ header {
     line-height: 2rem;
 }
 
+.project-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #a2a8d3;
+    margin-top: -25px;
+}
 
+.projects {
+    width: 400px;
+    margin: 0 20px 20px 20px;
+    padding: 0 10px;
+    background-color:#38598b ;
+}
+
+.projects img {
+    width: calc(649px * 0.55);
+    height: calc(427px * 0.55);
+}
 
 
 
