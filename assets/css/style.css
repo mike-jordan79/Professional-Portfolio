@@ -82,6 +82,19 @@ header {
     height: calc(427px * 0.55);
 }
 
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.contact-form div {
+    width: 400px;
+}
+
+
+
+
 
 
 
